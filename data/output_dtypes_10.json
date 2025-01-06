@@ -1,0 +1,12 @@
+{
+    "id": "uint64",
+    "price": "uint32",
+    "year": "float32",
+    "manufacturer": "category",
+    "fuel": "category",
+    "odometer": "float32",
+    "drive": "category",
+    "type": "category",
+    "paint_color": "category",
+    "state": "category"
+}

@@ -1,0 +1,158 @@
+[
+    {
+        "column_name": "description",
+        "memory_abs": 3865695,
+        "memory_per": 95.712,
+        "dtype": "object"
+    },
+    {
+        "column_name": "url",
+        "memory_abs": 57555,
+        "memory_per": 1.425,
+        "dtype": "object"
+    },
+    {
+        "column_name": "image_url",
+        "memory_abs": 48311,
+        "memory_per": 1.1962,
+        "dtype": "object"
+    },
+    {
+        "column_name": "posting_date",
+        "memory_abs": 30429,
+        "memory_per": 0.7534,
+        "dtype": "object"
+    },
+    {
+        "column_name": "VIN",
+        "memory_abs": 13412,
+        "memory_per": 0.3321,
+        "dtype": "category"
+    },
+    {
+        "column_name": "model",
+        "memory_abs": 3783,
+        "memory_per": 0.0937,
+        "dtype": "category"
+    },
+    {
+        "column_name": "id",
+        "memory_abs": 3335,
+        "memory_per": 0.0826,
+        "dtype": "uint64"
+    },
+    {
+        "column_name": "price",
+        "memory_abs": 1667,
+        "memory_per": 0.0413,
+        "dtype": "uint32"
+    },
+    {
+        "column_name": "year",
+        "memory_abs": 1667,
+        "memory_per": 0.0413,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "odometer",
+        "memory_abs": 1667,
+        "memory_per": 0.0413,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "county",
+        "memory_abs": 1667,
+        "memory_per": 0.0413,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "lat",
+        "memory_abs": 1667,
+        "memory_per": 0.0413,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "long",
+        "memory_abs": 1667,
+        "memory_per": 0.0413,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "region_url",
+        "memory_abs": 882,
+        "memory_per": 0.0218,
+        "dtype": "category"
+    },
+    {
+        "column_name": "region",
+        "memory_abs": 873,
+        "memory_per": 0.0216,
+        "dtype": "category"
+    },
+    {
+        "column_name": "state",
+        "memory_abs": 421,
+        "memory_per": 0.0104,
+        "dtype": "category"
+    },
+    {
+        "column_name": "manufacturer",
+        "memory_abs": 420,
+        "memory_per": 0.0104,
+        "dtype": "category"
+    },
+    {
+        "column_name": "type",
+        "memory_abs": 418,
+        "memory_per": 0.0104,
+        "dtype": "category"
+    },
+    {
+        "column_name": "condition",
+        "memory_abs": 417,
+        "memory_per": 0.0103,
+        "dtype": "category"
+    },
+    {
+        "column_name": "cylinders",
+        "memory_abs": 417,
+        "memory_per": 0.0103,
+        "dtype": "category"
+    },
+    {
+        "column_name": "fuel",
+        "memory_abs": 417,
+        "memory_per": 0.0103,
+        "dtype": "category"
+    },
+    {
+        "column_name": "title_status",
+        "memory_abs": 417,
+        "memory_per": 0.0103,
+        "dtype": "category"
+    },
+    {
+        "column_name": "transmission",
+        "memory_abs": 417,
+        "memory_per": 0.0103,
+        "dtype": "category"
+    },
+    {
+        "column_name": "drive",
+        "memory_abs": 417,
+        "memory_per": 0.0103,
+        "dtype": "category"
+    },
+    {
+        "column_name": "size",
+        "memory_abs": 417,
+        "memory_per": 0.0103,
+        "dtype": "category"
+    },
+    {
+        "column_name": "paint_color",
+        "memory_abs": 417,
+        "memory_per": 0.0103,
+        "dtype": "category"
+    }
+]
