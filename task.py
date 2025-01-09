@@ -5,6 +5,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Датасет объявлений о продаже б/у автомобилей с сайта craigslist.org
+# Содержит информцию: цена, состояние, производитель, местоположение, пробег и 17 других категорий
+#
+# https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data
 def write_to_json(output, file_id=''):
     if isinstance(output, pd.DataFrame):
         data = json.loads(output.to_json(default_handler=str, orient='records'))
